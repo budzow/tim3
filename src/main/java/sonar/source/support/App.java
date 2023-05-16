@@ -15,4 +15,6 @@ public class App
         num = num * myPow(num, exponent - 1); // Noncompliant
         return num;  // this is never reached
     }
+    
+    {}
 }
